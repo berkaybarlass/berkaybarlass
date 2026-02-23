@@ -16,7 +16,6 @@ About Me = [
     "A know about of Python, Selenium, Java, HTML, CSS ",
     "New things with code everyday",
     "I like to work at night !!"
-    
 ]
 ```
  https://medium.com/@yusufberkaybarlas
