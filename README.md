@@ -21,7 +21,7 @@ About Me = [
 ```
  https://medium.com/@yusufberkaybarlas
 
- <h2 align="center">🔥 Languages and Tools  🔥</h2> 
+ <h2 align="center">Languages and Tools</h2> 
 
 <p align="center"> 
 <p align="center">
@@ -30,7 +30,7 @@ About Me = [
   </a>
 </p>
 
-  <h2 align="center"> 🔥 Streak stats 🔥 </h2>
+  <h2 align="center">Streak stats</h2>
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Go to Source" alt="BerkayBarlas's streak" img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybarlass&theme&theme=react&border_color=61dafb&hide_border=true&=monokai-metallian&hide_border=true"/>
